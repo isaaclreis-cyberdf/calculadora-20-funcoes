@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de `README.md` para esse programa em C, que é uma calculadora científica com 20 operações matemáticas:
-
----
-
 # 🧮 Calculadora Científica em C
 
 Este projeto é uma calculadora interativa em C que suporta **20 operações matemáticas diferentes**, incluindo operações básicas, trigonometria, logaritmos, exponenciação, entre outras. É uma ótima ferramenta de aprendizado para quem está estudando C e funções matemáticas da biblioteca `math.h`.
